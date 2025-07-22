@@ -6,7 +6,6 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Slider } from '@/components/ui/slider'
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, LineChart, Line } from 'recharts'
 import { Calculator, TrendingUp, Users, DollarSign, Target, Zap } from 'lucide-react'
-import './App.css'
 
 interface CompanyScenario {
   name: string
